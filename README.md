@@ -18,4 +18,4 @@ The time each analysis took was of importance to Steve, our client. Overall, the
 The biggest advantage of refactoring is to make a code more efficient. Specifically, in this case, by refactoring the code we were able to significantly reducing run time for analysis, even though there was more data being analyzed. Refactoring code, generally speaking, also can help find the most readable way to write the code and can also improve formatting of the code.
 Refactoring does take time, however, and this may be something which outweighs the efficiency gained. Specifically, if working on a short timeline or close to a due date, it may not always be possible to refactor code and therefore the first iteration of the code is the best/only one to go with. 
 
-With regard to the green_stocks analysis vs the VBA_Challenge analysis, the refactoring allowas for a cleaner and less nested approach to utilizing for loops to complete the analysis.
+With regard to the green_stocks analysis vs the VBA_Challenge analysis, the refactoring allows for a cleaner and less nested approach when utilizing for loops to complete the analysis.
