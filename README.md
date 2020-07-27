@@ -5,6 +5,7 @@ The purpose of this analysis is to provide the client, Steve, an analysis of a d
 
 ## Results
 When comparing all stocks in the most recent year, 2018, two stocks performed with a positive return: ENPH & RUN. When comparing stocks one year earlier, in 2017, 11 of the 12 stocks performed with a positive return: AY, CSIQ, DQ, ENPH, FSLR, HASI, JKS, RUN, SEDG, SPWR, VSLR. 
+
 ![2017Results](https://github.com/tarajarell/stock-analysis/blob/master/resources/2017%20Results.jpg)
 ![2018Results](https://github.com/tarajarell/stock-analysis/blob/master/resources/2018%20Results.jpg)
 
